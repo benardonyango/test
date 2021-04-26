@@ -1,0 +1,1538 @@
+[
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Belet Weyne",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Bulo Burto",
+   "total_area": 15,
+   "agriculture": 7,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Jalalaqsi",
+   "total_area": 528,
+   "agriculture": 250,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Jowhar",
+   "total_area": 48421,
+   "agriculture": 43000,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Balcad",
+   "total_area": 26105,
+   "agriculture": 20000,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Marka",
+   "total_area": 15,
+   "agriculture": 6,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Afgooye",
+   "total_area": 10663,
+   "agriculture": 7800,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Kurtunwaarey",
+   "total_area": 7618,
+   "agriculture": 2000,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Qoryooley",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Sablaale",
+   "total_area": 4845,
+   "agriculture": 25000,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Wanla Weyn",
+   "total_area": 2925,
+   "agriculture": 1500,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Garbahaarey",
+   "total_area": 321,
+   "agriculture": 150,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Baardheere",
+   "total_area": 276,
+   "agriculture": 50,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Doolow",
+   "total_area": 781,
+   "agriculture": 320,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Luuq",
+   "total_area": 252,
+   "agriculture": 134,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Buaale",
+   "total_area": 12351,
+   "agriculture": 5700,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Jilib",
+   "total_area": 11162,
+   "agriculture": 2360,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Saakow",
+   "total_area": 3421,
+   "agriculture": 1500,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Kismaayo",
+   "total_area": 153,
+   "agriculture": 72,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Afmadow",
+   "total_area": 877,
+   "agriculture": 260,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2013,
+   "season": "Deyr",
+   "district": "Jamaame",
+   "total_area": 10416,
+   "agriculture": 1569,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Belet Weyne",
+   "total_area": 190,
+   "agriculture": 150,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Bulo Burto",
+   "total_area": 560,
+   "agriculture": 350,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Jalalaqsi",
+   "total_area": 696,
+   "agriculture": 560,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Jowhar",
+   "total_area": 9794,
+   "agriculture": 7700,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Balcad",
+   "total_area": 17251,
+   "agriculture": 13450,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Marka",
+   "total_area": 3,
+   "agriculture": 1,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Afgooye",
+   "total_area": 16,
+   "agriculture": 4,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Kurtunwaarey",
+   "total_area": 6007,
+   "agriculture": 3200,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Qoryooley",
+   "total_area": 253,
+   "agriculture": 152,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Sablaale",
+   "total_area": 1435,
+   "agriculture": 76,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Wanla Weyn",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Garbahaarey",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Baardheere",
+   "total_area": 234,
+   "agriculture": 156,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Doolow",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Luuq",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Buaale",
+   "total_area": 10016,
+   "agriculture": 7890,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Jilib",
+   "total_area": 2569,
+   "agriculture": 1530,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Saakow",
+   "total_area": 2222,
+   "agriculture": 870,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Kismaayo",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Afmadow",
+   "total_area": 227,
+   "agriculture": 152,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2018,
+   "season": "Deyr",
+   "district": "Jamaame",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Belet Weyne",
+   "total_area": 45768,
+   "agriculture": 35000,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Bulo Burto",
+   "total_area": 8278,
+   "agriculture": 4556,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Jalalaqsi",
+   "total_area": 4905,
+   "agriculture": 2800,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Jowhar",
+   "total_area": 61591,
+   "agriculture": 54000,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Balcad",
+   "total_area": 25400,
+   "agriculture": 22600,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Marka",
+   "total_area": 239,
+   "agriculture": 150,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Afgooye",
+   "total_area": 1237,
+   "agriculture": 650,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Kurtunwaarey",
+   "total_area": 2229,
+   "agriculture": 1500,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Qoryooley",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Sablaale",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Wanla Weyn",
+   "total_area": 875,
+   "agriculture": 650,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Garbahaarey",
+   "total_area": 352,
+   "agriculture": 187,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Baardheere",
+   "total_area": 1444,
+   "agriculture": 1100,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Doolow",
+   "total_area": 314,
+   "agriculture": 65,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Luuq",
+   "total_area": 91,
+   "agriculture": 43,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Buaale",
+   "total_area": 13000,
+   "agriculture": 7590,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Jilib",
+   "total_area": 8236,
+   "agriculture": 6570,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Saakow",
+   "total_area": 3749,
+   "agriculture": 928,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Kismaayo",
+   "total_area": 337,
+   "agriculture": 158,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Afmadow",
+   "total_area": 9302,
+   "agriculture": 7200,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2019,
+   "season": "Deyr",
+   "district": "Jamaame",
+   "total_area": 13858,
+   "agriculture": 8400,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Belet Weyne",
+   "total_area": 1259,
+   "agriculture": 728,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Bulo Burto",
+   "total_area": 117,
+   "agriculture": 78,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Jalalaqsi",
+   "total_area": 667,
+   "agriculture": 437,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Jowhar",
+   "total_area": 21155,
+   "agriculture": 16900,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Balcad",
+   "total_area": 654,
+   "agriculture": 346,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Marka",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Afgooye",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Kurtunwaarey",
+   "total_area": 473,
+   "agriculture": 276,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Qoryooley",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Sablaale",
+   "total_area": 200,
+   "agriculture": 152,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Wanla Weyn",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Garbahaarey",
+   "total_area": 8716,
+   "agriculture": 4609,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Baardheere",
+   "total_area": 3994,
+   "agriculture": 678,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Doolow",
+   "total_area": 512,
+   "agriculture": 76,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Luuq",
+   "total_area": 17628,
+   "agriculture": 10987,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Buaale",
+   "total_area": 982,
+   "agriculture": 154,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Jilib",
+   "total_area": 648,
+   "agriculture": 267,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Saakow",
+   "total_area": 217,
+   "agriculture": 189,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Kismaayo",
+   "total_area": 814,
+   "agriculture": 392,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Afmadow",
+   "total_area": 86,
+   "agriculture": 23,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2015,
+   "season": "Gu",
+   "district": "Jamaame",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Belet Weyne",
+   "total_area": 13108,
+   "agriculture": 9876,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Bulo Burto",
+   "total_area": 1307,
+   "agriculture": 1197,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Jalalaqsi",
+   "total_area": 2642,
+   "agriculture": 1534,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Jowhar",
+   "total_area": 46332,
+   "agriculture": 38973,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Balcad",
+   "total_area": 13396,
+   "agriculture": 8732,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Marka",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Afgooye",
+   "total_area": 3,
+   "agriculture": 1,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Kurtunwaarey",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Qoryooley",
+   "total_area": 1,
+   "agriculture": 0,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Sablaale",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Wanla Weyn",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Garbahaarey",
+   "total_area": 12307,
+   "agriculture": 5476,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Baardheere",
+   "total_area": 1353,
+   "agriculture": 439,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Doolow",
+   "total_area": 1225,
+   "agriculture": 789,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Luuq",
+   "total_area": 11201,
+   "agriculture": 3512,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Buaale",
+   "total_area": 10395,
+   "agriculture": 5543,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Jilib",
+   "total_area": 7685,
+   "agriculture": 2498,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Saakow",
+   "total_area": 2084,
+   "agriculture": 987,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Kismaayo",
+   "total_area": 296,
+   "agriculture": 53,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Afmadow",
+   "total_area": 1570,
+   "agriculture": 1298,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2016,
+   "season": "Gu",
+   "district": "Jamaame",
+   "total_area": 9727,
+   "agriculture": 3982,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Belet Weyne",
+   "total_area": 40720,
+   "agriculture": 33400,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Bulo Burto",
+   "total_area": 18320,
+   "agriculture": 11200,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Jalalaqsi",
+   "total_area": 11790,
+   "agriculture": 5698,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Jowhar",
+   "total_area": 79573,
+   "agriculture": 65678,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Balcad",
+   "total_area": 20417,
+   "agriculture": 14567,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Marka",
+   "total_area": 817,
+   "agriculture": 324,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Afgooye",
+   "total_area": 7962,
+   "agriculture": 4358,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Kurtunwaarey",
+   "total_area": 3179,
+   "agriculture": 1986,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Qoryooley",
+   "total_area": 2175,
+   "agriculture": 1390,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Sablaale",
+   "total_area": 890,
+   "agriculture": 120,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Wanla Weyn",
+   "total_area": 1488,
+   "agriculture": 765,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Garbahaarey",
+   "total_area": 6172,
+   "agriculture": 2416,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Baardheere",
+   "total_area": 2779,
+   "agriculture": 1487,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Doolow",
+   "total_area": 3037,
+   "agriculture": 890,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Luuq",
+   "total_area": 18947,
+   "agriculture": 11349,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Buaale",
+   "total_area": 16933,
+   "agriculture": 12890,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Jilib",
+   "total_area": 19987,
+   "agriculture": 7645,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Saakow",
+   "total_area": 4117,
+   "agriculture": 1289,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Kismaayo",
+   "total_area": 1130,
+   "agriculture": 457,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Afmadow",
+   "total_area": 16983,
+   "agriculture": 8972,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2018,
+   "season": "Gu",
+   "district": "Jamaame",
+   "total_area": 26682,
+   "agriculture": 19876,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Belet Weyne",
+   "total_area": 2237,
+   "agriculture": 1500,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Bulo Burto",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Jalalaqsi",
+   "total_area": 13,
+   "agriculture": 8,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Jowhar",
+   "total_area": 8276,
+   "agriculture": 1349,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Balcad",
+   "total_area": 4308,
+   "agriculture": 2400,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Marka",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Afgooye",
+   "total_area": 9,
+   "agriculture": 4,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Kurtunwaarey",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Qoryooley",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Sablaale",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Wanla Weyn",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Garbahaarey",
+   "total_area": 15863,
+   "agriculture": 8700,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Baardheere",
+   "total_area": 1731,
+   "agriculture": 870,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Doolow",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Luuq",
+   "total_area": 47308,
+   "agriculture": 42000,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Buaale",
+   "total_area": 1697,
+   "agriculture": 800,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Jilib",
+   "total_area": 1592,
+   "agriculture": 720,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Saakow",
+   "total_area": 345,
+   "agriculture": 129,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Kismaayo",
+   "total_area": 423,
+   "agriculture": 289,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Afmadow",
+   "total_area": 10893,
+   "agriculture": 7765,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2019,
+   "season": "Gu",
+   "district": "Jamaame",
+   "total_area": 2855,
+   "agriculture": 1438,
+   "approximate_population": 61242
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Banadir",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 2228463
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Belet Weyne",
+   "total_area": 24482,
+   "agriculture": 20000,
+   "approximate_population": 231851
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Bulo Burto",
+   "total_area": 1700,
+   "agriculture": 1643,
+   "approximate_population": 90880
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Jalalaqsi",
+   "total_area": 3488,
+   "agriculture": 3250,
+   "approximate_population": 100263
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Jowhar",
+   "total_area": 57114,
+   "agriculture": 53500,
+   "approximate_population": 156220
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Balcad",
+   "total_area": 17238,
+   "agriculture": 12300,
+   "approximate_population": 183233
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Marka",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 180336
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Afgooye",
+   "total_area": 3381,
+   "agriculture": 1527,
+   "approximate_population": 191431
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Baraawe",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56743
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Kurtunwaarey",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 188547
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Qoryooley",
+   "total_area": 1504,
+   "agriculture": 1493,
+   "approximate_population": 207773
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Sablaale",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 20213
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Wanla Weyn",
+   "total_area": 11481,
+   "agriculture": 10453,
+   "approximate_population": 66459
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Qansax Dheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61939
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Garbahaarey",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 121988
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Baardheere",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 101133
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Doolow",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 56310
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Luuq",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 40676
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Buaale",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 78011
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Jilib",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 148588
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Saakow",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 59940
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Kismaayo",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 377653
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Afmadow",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 164086
+ },
+ {
+   "year": 2020,
+   "season": "Hagaa",
+   "district": "Jamaame",
+   "total_area": 0,
+   "agriculture": 0,
+   "approximate_population": 61242
+ }
+]
